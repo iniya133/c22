@@ -1,1 +1,2 @@
-# ideal-octo-carnival
+# staticSquare
+A static square made using Matter.js physics engine
